@@ -2,7 +2,7 @@
 
 Segunda aplicación del laboratorio de Pipelines de Arquitectura de Software (UCEVA). Está hecha con Angular, tiene tres vistas y se publica automáticamente en GitHub Pages con un workflow de GitHub Actions.
 
-Página publicada: https://felipe-marulanda.github.io/Uceva-Pipeline-App-Path/
+Página publicada: https://santiagocruz09.github.io/Uceva-Pipeline-App-Path/
 
 Integrantes: Santiago Santacruz Cuellar y Felipe Marulanda Castro.
 
@@ -34,7 +34,7 @@ La página no se sirve desde la raíz del dominio sino desde `/Uceva-Pipeline-Ap
 npm run build -- --base-href /Uceva-Pipeline-App-Path/
 ```
 
-Sin esa opción, el navegador buscaría los archivos JavaScript y el favicon en la raíz de `felipe-marulanda.github.io` y no los encontraría.
+Sin esa opción, el navegador buscaría los archivos JavaScript y el favicon en la raíz de `santiagocruz09.github.io` y no los encontraría.
 
 ## Pipeline
 
